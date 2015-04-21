@@ -38,7 +38,7 @@ This is a redis client GUI tool written based on Java SWT and Jedis. It's my obj
 
 ## Install & run for RPM based (7) 64 bit Linux
  1. Download the rpm file [redis-client-1.5-1.el7.x86_64.rpm](https://github.com/comolosabia/RedisClient/blob/linux-x86_64/release/redis-client-1.5-1.el7.x86_64.rpm?raw=true)
- 2. Install the redis-client-1.5-1.el7.x86_64.rpm, input `rpm -ivh redis-client-1.5-1.el7.x86_64.rpm`. 
+ 2. Install the redis-client-1.5-1.el7.x86_64.rpm, input `sudo rpm -ivh redis-client-1.5-1.el7.x86_64.rpm`. 
  3. Run the application from `Application/Programming/Redis Client` menu.
 
 ## Install & run for Windows
